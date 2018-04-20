@@ -1,6 +1,6 @@
 {
   "name": "@mcam3r0n/aca-dash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is an exercise for ACA JS311.",
   "main": "index.js",
   "scripts": {
